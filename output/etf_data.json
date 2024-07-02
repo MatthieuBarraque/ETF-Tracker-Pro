@@ -1,0 +1,16 @@
+{
+    "XLK": {
+        "name": "The Technology Select Sector SPDR Fund",
+        "last_price": 227.94000244140625,
+        "last_volume": 4636913,
+        "change_percent_year": "N/A",
+        "request_time": "2024-07-02T02:52:35.541960+02:00"
+    },
+    "XLF": {
+        "name": "The Financial Select Sector SPDR Fund",
+        "last_price": 41.20000076293945,
+        "last_volume": 35609536,
+        "change_percent_year": "N/A",
+        "request_time": "2024-07-02T02:52:35.541960+02:00"
+    }
+}

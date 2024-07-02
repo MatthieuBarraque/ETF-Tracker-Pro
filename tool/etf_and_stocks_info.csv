@@ -1,0 +1,27 @@
+Symbol,Name,Sector,Market,Exchange,Type
+SPY,SPDR S&P 500 ETF Trust,N/A,NYSE ARCA,NYSEArca,ETF
+IVV,iShares Core S&P 500 ETF,N/A,NASDAQ,NasdaqGS,ETF
+VOO,Vanguard S&P 500 ETF,N/A,NYSE ARCA,NYSEArca,ETF
+QQQ,Invesco QQQ Trust,N/A,NASDAQ,NasdaqGS,ETF
+DIA,SPDR Dow Jones Industrial Average ETF Trust,N/A,NYSE ARCA,NYSEArca,ETF
+IWM,iShares Russell 2000 ETF,N/A,NYSE ARCA,NYSEArca,ETF
+EFA,iShares MSCI EAFE ETF,N/A,NYSE ARCA,NYSEArca,ETF
+IEMG,iShares Core MSCI Emerging Markets ETF,N/A,NYSE ARCA,NYSEArca,ETF
+AGG,iShares Core U.S. Aggregate Bond ETF,N/A,NYSE ARCA,NYSEArca,ETF
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,N/A,NYSE ARCA,NYSEArca,ETF
+XLK,Technology Select Sector SPDR Fund,Technology,NYSE ARCA,NYSEArca,ETF
+XLF,Financial Select Sector SPDR Fund,Financial,NYSE ARCA,NYSEArca,ETF
+XLV,Health Care Select Sector SPDR Fund,Health Care,NYSE ARCA,NYSEArca,ETF
+XLE,Energy Select Sector SPDR Fund,Energy,NYSE ARCA,NYSEArca,ETF
+XLY,Consumer Discretionary Select Sector SPDR Fund,Consumer Discretionary,NYSE ARCA,NYSEArca,ETF
+XLI,Industrial Select Sector SPDR Fund,Industrial,NYSE ARCA,NYSEArca,ETF
+XLB,Materials Select Sector SPDR Fund,Materials,NYSE ARCA,NYSEArca,ETF
+XLU,Utilities Select Sector SPDR Fund,Utilities,NYSE ARCA,NYSEArca,ETF
+XLP,Consumer Staples Select Sector SPDR Fund,Consumer Staples,NYSE ARCA,NYSEArca,ETF
+XLC,Communication Services Select Sector SPDR Fund,Communication Services,NYSE ARCA,NYSEArca,ETF
+XLRE,Real Estate Select Sector SPDR Fund,Real Estate,NYSE ARCA,NYSEArca,ETF
+VT,Vanguard Total World Stock ETF,N/A,NYSE ARCA,NYSEArca,ETF
+VTI,Vanguard Total Stock Market ETF,N/A,NYSE ARCA,NYSEArca,ETF
+BND,Vanguard Total Bond Market ETF,N/A,NYSE ARCA,NYSEArca,ETF
+SCHD,Schwab U.S. Dividend Equity ETF,N/A,NYSE ARCA,NYSEArca,ETF
+ARKK,ARK Innovation ETF,N/A,NYSE ARCA,NYSEArca,ETF

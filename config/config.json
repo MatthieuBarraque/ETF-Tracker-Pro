@@ -1,0 +1,8 @@
+{
+    "investment_amount": 10000,
+    "perform_purchase": false,
+    "sell_etfs": false,
+    "timezone": "Europe/Paris",
+    "interval": 60,
+    "market_closed_display": true
+}
